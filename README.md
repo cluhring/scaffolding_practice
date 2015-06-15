@@ -9,7 +9,7 @@ application up and running.
 
 * System dependencies
 
-* Configuration
+###Configuration
 
 * Database creation
 
